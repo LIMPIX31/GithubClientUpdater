@@ -1,0 +1,23 @@
+{
+  "name": "github-client-updater",
+  "version": "1.0.0",
+  "description": "a system for updating a local directory based on comparing it with a remote github repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIMPIX31/GithubClientUpdater.git"
+  },
+  "keywords": [
+    "github",
+    "update"
+  ],
+  "author": "LIMPIX31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIMPIX31/GithubClientUpdater/issues"
+  },
+  "homepage": "https://github.com/LIMPIX31/GithubClientUpdater#readme"
+}
